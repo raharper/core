@@ -11,3 +11,4 @@ if [ -e /etc/profile.d/Z99-cloud-locale-test.sh ]; then
 return 0
 EOF
 fi
+exit 0
